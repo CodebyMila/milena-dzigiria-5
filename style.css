@@ -102,3 +102,29 @@ h2 {
 	font-family: "BPG Square", sans-serif;
 
 }
+
+h3 {
+	font-family: "BPG Nostalgia", sans-serif;
+}
+
+
+
+.Footer {
+	text-align: center;
+	padding: 20px;
+
+}
+
+.socials {
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}
+
+
+
+.purple-line {
+	width: 1px;
+	height: 30px;
+	background-color: #4E6FAE;
+}
