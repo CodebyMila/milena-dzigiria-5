@@ -51,3 +51,26 @@ p {
 	font-family: "BPG Square", sans-serif;
 
 }
+
+
+.day {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-weight: 400;
+	font-size: 24px;
+	padding-top: 8px;
+	padding-left: 11px;
+	margin-bottom: 18px;
+}
+
+
+
+
+h3 {
+	font-weight: 400;
+	font-size: 24px;
+	color: #8D81FF;
+	margin-bottom: 8px;
+}
