@@ -128,3 +128,19 @@ h3 {
 	height: 30px;
 	background-color: #4E6FAE;
 }
+
+
+.text:   {
+	font-size: 16px;
+	font-weight: 400;
+	color: #4E6FAE;
+	display: inline-block ;
+	width: 500px;
+	flex-direction: row-reverse;
+	align-items: flex-start;
+    
+}
+	.text1 {
+		font-size: 16px;
+		color: #4E6FAE;
+	}
