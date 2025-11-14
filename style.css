@@ -1,0 +1,30 @@
+body {
+	margin-top: 54px;
+	margin-left: 52px;
+}
+
+header {
+	margin-bottom: 44px;
+}
+
+img {
+	vertical-align: middle;
+}
+
+
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+
+	.nav a {
+  color: white;
+  text-decoration: none; 
+  margin: 0 15px;
+  font-size: 18px;
+}
+
+
+a {
+  text-decoration: none;
+}
