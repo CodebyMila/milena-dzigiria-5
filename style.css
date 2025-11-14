@@ -87,3 +87,14 @@ h4 {
 	vertical-align: top;
 	margin-right: 50px;
 }
+
+
+.desc {
+	font-size: 16px;
+	font-weight: 400;
+	color: #4E6FAE;
+	display: inline-block;
+	width: 778px;
+	vertical-align: top;
+}
+
