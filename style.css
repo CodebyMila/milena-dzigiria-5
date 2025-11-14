@@ -74,3 +74,16 @@ h3 {
 	color: #8D81FF;
 	margin-bottom: 8px;
 }
+
+
+h4 {
+	font-weight: 700;
+	font-size: 20px;
+	color: #4E6FAE;
+	margin-bottom: 13px;
+}
+
+.banner {
+	vertical-align: top;
+	margin-right: 50px;
+}
