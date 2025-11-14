@@ -28,3 +28,21 @@ nav {
 a {
   text-decoration: none;
 }
+
+
+}
+
+li {
+	display: inline-block;
+	margin-left: 60px;
+}
+
+a {
+	font-weight: 700;
+	font-size: 26px;
+	color: #8D81FF;
+}
+
+.active {
+	color: #4E6FAE;
+}
